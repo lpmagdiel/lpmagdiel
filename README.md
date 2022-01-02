@@ -1,6 +1,10 @@
-# Hola [ code error 404 😣]
+# Hola yo soy Magdiel López y este es mi humilde morada
 
-> Estos son mis pequeños repositorios para propositos especificos 😉
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpmagdiel&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmagdiel&layout=compact&langs_count=7"/>
+</div>
 
 | Repo  | Utilidad  | Dependencias  | Lenguaje  | Ver  |
 |---|---|---|---|---|
@@ -12,4 +16,11 @@
 | LimBentary  | Sistema de inventario de proposito general  | [Neutralinojs](https://neutralino.js.org/docs/)  | HTML, CSS, Javascript  | Privado  |
 
 
-Contacto: [twitter](https://twitter.com/MagdielOmarLpez)
+<div> 
+  <a href="https://twitter.com/MagdielOmarLpez" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/MagdielOmarLpez?logo=twitter&style=for-the-badge" target="_blank">
+  </a>
+  <a href="https://github.com/lpmagdiel" target="_blank">
+    <img src="https://img.shields.io/github/followers/lpmagdiel?logo=github&style=for-the-badge" target="_blank">
+  </a>
+</div>
