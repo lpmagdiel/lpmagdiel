@@ -7,6 +7,8 @@
 
 | Repo  | Utilidad  | Dependencias  | Lenguaje  | Ver  |
 |---|---|---|---|---|
+| elementary studio | editor de codigo en la nube | react | Javascript |  [elementary studio web](https://elementary-studio.online/) |
+| dummy go | crear imagenes para test | Ninguna | Node | [dummy go web web](https://dummygo.com/)
 | local2json  | Almacenamiento de datos con localtorage  |  Ninguna | Javascript  |  [local2json](https://github.com/lpmagdiel/local2json) |
 | Stockero model release  | Aplicación para generar contrados de modelo  | [Apache cordova](https://cordova.apache.org/docs/en/latest/)  | HTML, CSS, Javascript |  Privado |
 | quesillo 🌯 | Pequeña libreria de funciones  | Ninguna  | Javascript  | [quesillojs](https://github.com/lpmagdiel/quesillo)  |
